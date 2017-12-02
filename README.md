@@ -1,0 +1,2 @@
+# BotTemplate
+For the Ducklings
